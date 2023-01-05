@@ -1,0 +1,36 @@
+body{
+
+    background-image: linear-gradient(turquoise,aqua,white);
+
+}
+
+.header img
+{
+	width: 80px;
+    margin-left: -15px;
+}
+
+.header
+{
+	color:white;
+    letter-spacing: 15px;
+    font-size:50 ;
+}
+
+#logout
+{
+	font-size: 25px; 
+    float: right;
+}
+
+#add_room{
+    width: 200;
+}
+
+#output
+{
+	padding: 10px;
+     width:80%;
+     background: rgba(128, 219, 240, 0.8);
+     border-radius: 15px;
+}

@@ -1,0 +1,42 @@
+body{
+
+    background-image: linear-gradient(turquoise,aqua,white);
+
+}
+
+.header img
+{
+	width: 80px;
+    margin-left: -15px;
+}
+
+.idea
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+div
+{
+	background-color:aliceblue;
+    padding: 20px;
+    width:600;
+    height:450 ;
+    border-radius: 50px;
+    
+}
+
+.header
+{
+	color:white;
+    letter-spacing: 15px;
+    font-size:50 ;
+}
+
+#login_button{
+    border-radius: 50px;
+    background-color: rgba(135, 242, 242, 0.884);
+    width: 400;
+    height: 30;
+    font-size: 15;
+    font-style: normal;
+}
